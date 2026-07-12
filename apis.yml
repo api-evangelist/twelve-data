@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://twelvedata.com/
 common:
+  - type: TrustCenter
+    url: security/twelve-data-trust-center.yml
+  - type: DomainSecurity
+    url: security/twelve-data-domain-security.yml
   - type: Website
     url: https://twelvedata.com/
   - type: PublicAPIsListing
@@ -30,3 +34,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+  - type: Blog
+    url: https://twelvedata.com/blog
