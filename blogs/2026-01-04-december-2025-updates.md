@@ -1,0 +1,8 @@
+---
+title: "December 2025 updates"
+url: "https://twelvedata.com/news/december-2025-updates"
+date: "2026-01-04"
+author: ""
+feed_url: "https://twelvedata.com/blog"
+---
+Monthly roundup of Twelve Data product updates for December 2025.
